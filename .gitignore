@@ -1,0 +1,10 @@
+figures/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/
+dj_local_conf.json
+.env
+env/env_docker_cpu.yml
+*_review.txt
+c1b_preview.txt
