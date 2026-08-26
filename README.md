@@ -1,4 +1,7 @@
 ## Code related to Comrie et al. 2024 Hippocampal representations of alternative possibilities are flexibly generated to meet cognitive demands
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22118015.svg)](https://doi.org/10.5281/zenodo.22118015)
+
 This repo contains analysis and figure code for the manuscript. All data are on the DANDI Archive.
 
 ## Cite
